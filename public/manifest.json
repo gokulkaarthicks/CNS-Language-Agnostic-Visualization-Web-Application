@@ -1,0 +1,17 @@
+{
+  "short_name": "LAV Web App",
+  "name": "Language Agnostic Visualization Web Application",
+  "icons": [
+    {
+      "src": "https://cns.iu.edu/images/global/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
