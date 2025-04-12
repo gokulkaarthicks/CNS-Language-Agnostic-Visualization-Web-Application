@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CNS-Language-Agnostic-Visualization-Web-Application/static/css/main.a00c60ce.css",
+    "main.js": "/CNS-Language-Agnostic-Visualization-Web-Application/static/js/main.96aab41d.js",
+    "static/js/453.8ab44547.chunk.js": "/CNS-Language-Agnostic-Visualization-Web-Application/static/js/453.8ab44547.chunk.js",
+    "index.html": "/CNS-Language-Agnostic-Visualization-Web-Application/index.html",
+    "main.a00c60ce.css.map": "/CNS-Language-Agnostic-Visualization-Web-Application/static/css/main.a00c60ce.css.map",
+    "main.96aab41d.js.map": "/CNS-Language-Agnostic-Visualization-Web-Application/static/js/main.96aab41d.js.map",
+    "453.8ab44547.chunk.js.map": "/CNS-Language-Agnostic-Visualization-Web-Application/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00c60ce.css",
+    "static/js/main.96aab41d.js"
+  ]
+}
