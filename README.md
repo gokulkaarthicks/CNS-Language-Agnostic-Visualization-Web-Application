@@ -2,6 +2,9 @@
 
 A web application that allows users to create visualizations using Python and R.
 
+> **❗ Important :**
+  SKIP the Setup. Startup script takes care of it.
+
 ## First Time Setup
 
 ### Windows Users:
@@ -14,6 +17,7 @@ setup.bat
 chmod +x setup.sh
 ./setup.sh
 ```
+
 
 ## Running the Application
 
