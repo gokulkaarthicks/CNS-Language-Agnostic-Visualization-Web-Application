@@ -2,7 +2,8 @@
 
 A web application that allows users to create visualizations using Python and R.
 
-> [!IMPORTANT] SKIP the Setup script takes care of it just run start.
+> **❗ Important :**
+  SKIP the Setup. Startup script takes care of it.
 
 ## First Time Setup
 
